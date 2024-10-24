@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: xingyueye6/resume
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,14 +9,14 @@ version: 2
 name: Brett Harris
 title: Senior Network System Administrator
 email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+website: www.github.com/xingyueye6/resume
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  xingyueye6
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -58,12 +58,12 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/xingyueye6
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  xingyueye6/resume
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/xingyueye6/resume
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -117,7 +117,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: xingyueye6/resume
 
 sass:
   sass_dir: _sass
